@@ -2,7 +2,7 @@
 
 SVT-SDE: Spatiotemporal Vision Transformers-based Selfsupervised Depth Estimation in Stereoscopic Surgical Videos
 
-This is a reference implementation of our paper on IEEE Transactions on Medical Robotics and Bionics
+This is a reference implementation of our paper recently published on IEEE Transactions on Medical Robotics and Bionics
 
 Rong Tao, Baoru Huang, Xiaoyang Zou, Guoyan Zheng* <br/>
 
